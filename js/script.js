@@ -66,7 +66,21 @@ const DOM = {
 
 /* ---------------- INFO ---------------- */
 const INFO = {
-  grodnar: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo nunc, maximus a lacus eu, imperdiet sollicitudin enim. Suspendisse elit purus, hendrerit rutrum imperdiet ut, porta non enim. Etiam eleifend scelerisque dui condimentum euismod. Quisque mattis vitae libero at sollicitudin. Proin sollicitudin semper orci, quis malesuada metus mattis et. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo nunc, maximus a lacus eu, imperdiet sollicitudin enim. Suspendisse elit purus, hendrerit rutrum imperdiet ut, porta non enim. Etiam eleifend scelerisque dui condimentum euismod. Quisque mattis vitae libero at sollicitudin. Proin sollicitudin semper orci, quis malesuada metus mattis et.`,
+  grodnar: `Sou Grodnar Goldhand, de Ubersreik.
+  Se o sobrenome lhe parece familiar, é porque provavelmente já comprou uma joia cara demais do meu irmão… ou uma lâmina boa o suficiente para sobreviver a um erro seu. O Clã Goldhand é conhecido no Reikland por trabalhar pedra, metal e contratos com a mesma precisão. Meu pai, Gunnar, construiu esse nome com martelo, suor e uma teimosia que faria montanhas recuarem.
+  Meus irmãos seguiram esse caminho.
+  Eu… segui outro.<br>
+  Nasci com mãos fortes para lapidar gemas e olhos bons para reconhecer minério, mas nunca tive paciência para contar veios de pedra enquanto o mundo lá fora estava cheio de coisas tentando matar alguém. Passei anos tentando ser o anão que esperavam que eu fosse, até perceber que alguns metais simplesmente não foram feitos para virar ornamento.
+  Então virei punho.<br>
+  Troquei a bancada da oficina pelo barulho das tavernas, arenas e estradas. Descobri que socos resolvem muitos problemas que diplomacia só piora, e que um anão que sabe cair e levantar é mais útil do que um que só sabe calcular o preço de uma esmeralda.
+  Ainda assim, nunca abandonei o que significa carregar o nome Goldhand. Honra não é algo que se deixa na porta de casa. Um contrato é um contrato. Um aliado é responsabilidade. E uma dívida… é um juramento gravado em pedra.
+  Luto como aprendi que anões devem lutar: perto o suficiente para sentir o fôlego do inimigo e forte o bastante para garantir que ele não respire outra vez. Não uso martelo cerimonial nem arma feita para impressionar nobres. Confio nos meus punhos, nas minhas soqueiras e na simples filosofia de que qualquer problema pode ser resolvido com determinação, força e uma quantidade adequada de teimosia.
+  Viajo com a Armada Agazzi porque encontrei ali algo raro fora dos salões anões: gente que entende que confiança se constrói dividindo perigo, bebida e silêncio depois da batalha. Eles lutam como companheiros, não como clientes. Isso basta para mim.
+  Ainda tenho família em Ubersreik. Ainda tenho um clã para honrar. E, um dia, pretendo voltar para eles com histórias que façam meu pai reclamar… mas erguer um caneco mesmo assim.<br>
+  Até lá, continuo fazendo o que faço melhor:
+  Quebrar ossos, cumprir promessas e garantir que quem luta ao meu lado tenha alguém firme entre ele e o pior que o Velho Mundo pode oferecer.
+  Se cruzar meu caminho, espero que seja como aliado.
+  Porque inimigos… raramente têm a chance de reclamar duas vezes.`,
   konrad: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo nunc, maximus a lacus eu, imperdiet sollicitudin enim. Suspendisse elit purus, hendrerit rutrum imperdiet ut, porta non enim. Etiam eleifend scelerisque dui condimentum euismod. Quisque mattis vitae libero at sollicitudin. Proin sollicitudin semper orci, quis malesuada metus mattis et. <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo nunc, maximus a lacus eu, imperdiet sollicitudin enim. Suspendisse elit purus, hendrerit rutrum imperdiet ut, porta non enim. Etiam eleifend scelerisque dui condimentum euismod. Quisque mattis vitae libero at sollicitudin. Proin sollicitudin semper orci, quis malesuada metus mattis et.`,
   ettore: `Sou Ettore Agazzi, de Tobaro.<br>
   Talvez você já tenha ouvido esse nome antes. Em Tilea, Agazzi não é pronunciado à toa — costuma vir acompanhado de respeito… ou de cautela. Minha família construiu sua reputação empunhando lâminas a serviço de príncipes, cidades-estado e de qualquer senhor capaz de compreender o valor de uma companhia bem liderada.
