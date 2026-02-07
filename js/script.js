@@ -375,9 +375,9 @@ DOM.thumbs.forEach((img) => {
 });
 
 DOM.blog.addEventListener("click", () => {
-  window.location.href = "https://armadaagazzi.wordpress.com"; // URL do blog
+  window.location.href = "https://blog.1nodado.com.br/"; // URL do blog
 });
 
 DOM.foundy.addEventListener("click", () => {
-  window.location.href = "https://1nodado.com.br"; // URL da foundry
+  window.location.href = "https://foundry.1nodado.com.br/join"; // URL da foundry
 });
