@@ -62,6 +62,7 @@ const DOM = {
   menu: document.getElementById("menu"),
   foundy: document.getElementById("foundry"),
   blog: document.getElementById("blog"),
+  youtube: document.getElementById("youtube")
 };
 
 /* ---------------- INFO ---------------- */
@@ -414,9 +415,13 @@ DOM.thumbs.forEach((img) => {
 });
 
 DOM.blog.addEventListener("click", () => {
-  window.location.href = "https://blog.1nodado.com.br/"; // URL do blog
+  window.location.href = "https://blog.1nodado.com.br/";
 });
 
 DOM.foundy.addEventListener("click", () => {
-  window.location.href = "https://foundry.1nodado.com.br/join"; // URL da foundry
+  window.location.href = "https://foundry.1nodado.com.br/join";
+});
+
+DOM.youtube.addEventListener("click", () => {
+  window.location.href = "https://www.youtube.com/@1nodado";
 });
